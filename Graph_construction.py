@@ -11,10 +11,7 @@ access_key=[]
 access_secret=[]
 
 # set the API logins for several applications
-consumer_key.append("rk1XoOWV2Q0krplJmZGzcyIxT")
-consumer_secret.append("099nyxS6kXnNCjzQ9b6b07s7aKLdiJfUPVQefxlVQ2ZelnGSsp")
-access_key.append("963769414163271680-QfZGuBqaumPoBq1jJAQuQEE4pi9gvkY")
-access_secret.append("qDMEnozHGWV9AQkFGG4PhJS7dRpBcsoau0nbaj0hbpXZl")
+
 
 
 #consumer_key.append("--")
